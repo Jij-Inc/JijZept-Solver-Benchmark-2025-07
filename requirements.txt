@@ -1,0 +1,7 @@
+jijzept-solver
+jijmodeling
+ommx-pyscipopt-adapter
+minto
+matplotlib
+pandas
+numpy
