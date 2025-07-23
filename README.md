@@ -3,7 +3,7 @@
 
 # JijZept Solver Benchmark Notebooks
 
-JijZept Solver のベンチマーク比較を行う Jupyter ノートブックです。
+JijZept Solver のベンチマークを実行する Jupyter ノートブックです。
 
 ## 概要
 
@@ -12,6 +12,6 @@ QPLIB, MIPLIB のベンチマーク問題を使用して JijZept Solver のベ�
 ## 使用方法
 
 上記のバッジをクリックすると Binder または Google Colab でノートブックを実行できます。JijZept Solver 無償 WebAPI 版を使用するには事前の利用申請が必要です。
-詳しくは、以下のページを参照してください。
+詳しくは、以下リンク先のページをご参照ください。
 
-[JijZept Solver](https://www.jijzept.com/ja/products/solver/)
+[JijZept Solver の紹介](https://www.jijzept.com/ja/products/solver/)
